@@ -1,7 +1,7 @@
 .title{
     float: right;
     text-align: center;
-    height: 100px;
+    height: 300px;
     width: 900px;
     background-color:aquamarine;  
 }
@@ -20,6 +20,33 @@
     padding-top: 50px;
 }
 
+.personal-details{
+    background-color: lightcyan;
+    width: 900px;
+    height: 200px;
+    
+}
+ p  {
+    text-align: left;
+    color: darkgoldenrod;  
+}
+
+span{
+    color: darkblue;
+    text-decoration-line: underline;
+}
+
+.list{
+    width: 250;
+    height: 70px;
+    text-align: left;
+    background-color: lightcyan;
+}
+    
+li  {
+    text-align: left;
+    color: darkgoldenrod;  
+}
 
 
 
